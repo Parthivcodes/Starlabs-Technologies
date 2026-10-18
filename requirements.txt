@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn>=0.30,<1
+email-validator>=2.2,<3
+tzdata>=2025.1
+httpx>=0.27,<1
+pytest>=8,<10

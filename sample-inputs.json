@@ -1,0 +1,6 @@
+{
+  "signup": {"name":"Alice","email":"alice@example.com","password":"StrongPass123!"},
+  "login": {"email":"alice@example.com","password":"StrongPass123!"},
+  "class": {"name":"Yoga Flow","dateTime":"2027-06-15T10:00:00+05:30","instructor":"John Doe","availableSlots":20},
+  "booking": {"class_id":1,"client_name":"Alice","client_email":"alice@example.com"}
+}
